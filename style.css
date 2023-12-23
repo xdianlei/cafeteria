@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+}
+
+#home {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Add more styles for other sections and responsiveness */
